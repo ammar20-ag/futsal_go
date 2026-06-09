@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329448846553",
+    "project_id": "futsal-go-6c47b",
+    "storage_bucket": "futsal-go-6c47b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329448846553:android:cf3b9bf1dfea124fbf3ac8",
+        "android_client_info": {
+          "package_name": "com.example.futsal_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiziYqj5AmBRqMwng_CU_WHwIwn4T4WW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

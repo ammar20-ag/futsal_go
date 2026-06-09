@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "329448846553",
+    "firebase_url": "https://futsal-go-6c47b-default-rtdb.firebaseio.com",
+    "project_id": "futsal-go-6c47b",
+    "storage_bucket": "futsal-go-6c47b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329448846553:android:cf3b9bf1dfea124fbf3ac8",
+        "android_client_info": {
+          "package_name": "com.example.futsal_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329448846553-d2v6oshcksclmshjl63h1h4oqq7bercj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.futsal_go",
+            "certificate_hash": "5e9fb99084e0601a0a7a5ec223b4ef670bffea7a"
+          }
+        },
+        {
+          "client_id": "329448846553-vf963bfgnh8nruhig20a2epkml3rreo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiziYqj5AmBRqMwng_CU_WHwIwn4T4WW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329448846553-vf963bfgnh8nruhig20a2epkml3rreo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329448846553-mo6hcrjn5ol9k8tv455lacnuqdoisa1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.futsalGo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
